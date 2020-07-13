@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "angularhelloworld-spfx-client-side-solution",
+    "id": "201cd72c-06ef-4a63-88a0-147f198f312f",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/angularhelloworld-spfx.sppkg"
+  }
+}

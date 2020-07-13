@@ -1,0 +1,14 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.10.0",
+    "libraryName": "angularhelloworld-spfx",
+    "libraryId": "201cd72c-06ef-4a63-88a0-147f198f312f",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "angularhelloworld-spfx",
+    "framework": "none",
+    "isCreatingSolution": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
